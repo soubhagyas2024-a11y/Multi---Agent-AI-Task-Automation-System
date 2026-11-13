@@ -1,0 +1,11 @@
+month,region,product,units,revenue
+Jan,North,Alpha,120,2400
+Jan,South,Beta,80,2000
+Feb,North,Alpha,150,3000
+Feb,South,Beta,,2600
+Mar,East,Gamma,60,1800
+Mar,North,Alpha,170,3400
+Apr,South,Beta,95,2375
+Apr,East,Gamma,75,2250
+May,North,Alpha,200,4000
+May,East,Gamma,,2700
